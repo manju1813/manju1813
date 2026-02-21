@@ -1,7 +1,5 @@
 👋 Hi, I'm Manjunatha K S
 
-🚀 Aspiring Java Full Stack Developer
-
 ---
 
 ## 💼 About Me
