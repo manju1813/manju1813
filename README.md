@@ -14,9 +14,6 @@
 
 🤝 I’m looking for help with strengthening Data Structures and Algorithms and advanced Spring Boot concepts  
 
-📂 All of my projects are available at:  
-👉 https://github.com/manju1813  
+💬 Ask me about Java, SQL, React, Basic DevOps  
 
-💬 Ask me about Java, Spring Boot, SQL, REST APIs, React, Basic DevOps  
-
-📫 How to reach me: manju1813@gmail.com
+📫 How to reach me: manjunathaksmanju2004@gmail.com
